@@ -1,0 +1,3 @@
+# curso: introdução ao Git e Github
+
+​	O curso tem como objetivo demonstrar o propósito e funcionamento das ferramentas Git e Github, fazendo com que as pessoas que estão sendo expostas a esse conteúdo pela primeira vez absorvam, de forma suave, todo o conteúdo apresentado.
